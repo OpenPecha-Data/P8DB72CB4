@@ -1,0 +1,104 @@
+id: eabdf22c26a0474eb2375d42db554ff9
+annotation_type: Segment
+revision: '00001'
+annotations:
+  2f334676c6574ea3b395cd0d02329bda:
+    span:
+      start: 0
+      end: 30
+    metadata: {}
+  d5eff5a19450433f8e110b92653a1c20:
+    span:
+      start: 32
+      end: 68
+    metadata: {}
+  a8143443d4cc4077a1ee52a5ad49b38f:
+    span:
+      start: 70
+      end: 83
+    metadata: {}
+  2b0df2ce865f4b70bd03168ae82a6e86:
+    span:
+      start: 85
+      end: 233
+    metadata: {}
+  53eecad353f54b33857e843115bf5eef:
+    span:
+      start: 235
+      end: 391
+    metadata: {}
+  b39c6f13a4f7486f843bdb460f4dde76:
+    span:
+      start: 393
+      end: 516
+    metadata: {}
+  0f55f238d7494bc2af1ba5ffb36a1b79:
+    span:
+      start: 518
+      end: 695
+    metadata: {}
+  3f9c05da0f7f48638d72bce707cd1834:
+    span:
+      start: 697
+      end: 867
+    metadata: {}
+  1abcfc8f8880490da92b156741ed7b97:
+    span:
+      start: 869
+      end: 1015
+    metadata: {}
+  9fc9c32c80ec41a49eb5064965739165:
+    span:
+      start: 1017
+      end: 1085
+    metadata: {}
+  d71451fead4349e69f00c2e65406d85e:
+    span:
+      start: 1087
+      end: 1193
+    metadata: {}
+  4d97fd61ecf2473ca34d096713d4a5af:
+    span:
+      start: 1195
+      end: 1338
+    metadata: {}
+  654be6dcd90b4a1f8b78bb0893ef2e06:
+    span:
+      start: 1340
+      end: 1495
+    metadata: {}
+  718b26e3f60347798597b480b275919f:
+    span:
+      start: 1497
+      end: 1614
+    metadata: {}
+  b2e89277faec43a9b12a86688c5a5fad:
+    span:
+      start: 1616
+      end: 1872
+    metadata: {}
+  53c7f5bf09124f1abac030334fe30f71:
+    span:
+      start: 1874
+      end: 2172
+    metadata: {}
+  840998d63daf42119e551e189287805b:
+    span:
+      start: 2174
+      end: 2244
+    metadata: {}
+  9355c76d2bbc4a7a8ede056f6efb8e0e:
+    span:
+      start: 2246
+      end: 2533
+    metadata: {}
+  c4ac7872443e46a69bded09f51ad8ed2:
+    span:
+      start: 2535
+      end: 2622
+    metadata: {}
+  1eabb68964ac436387b66c704fc6030e:
+    span:
+      start: 2624
+      end: 2659
+    metadata: {}
